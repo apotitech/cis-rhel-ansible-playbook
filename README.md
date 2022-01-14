@@ -1,6 +1,6 @@
 ## Ansible + CIS Benchmarks + RHEL/CentOS 6
 
-#@#
+#@####
 
 [![Build Status](https://travis-ci.org/major/cis-rhel-ansible.svg?branch=master)](https://travis-ci.org/major/cis-rhel-ansible)
 
