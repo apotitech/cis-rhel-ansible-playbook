@@ -67,4 +67,5 @@ It's licensed under the [Apache License 2.0](https://www.apache.org/licenses/LIC
 _-- Major_
 mireille
 # cis-rhel-ansible-playbook
+christine petite njembe
 Jeanne FOKO
