@@ -66,4 +66,4 @@ It's licensed under the [Apache License 2.0](https://www.apache.org/licenses/LIC
 
 _-- Major_
 # cis-rhel-ansible-playbook
-Jeanne
+Jeanne FOKO
