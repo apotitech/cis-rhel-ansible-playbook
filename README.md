@@ -68,4 +68,4 @@ _-- Major_
 mireille
 # cis-rhel-ansible-playbook
 christine petite njembe
-Jeanne FOKO originally from Cameroon but live in Columbus OHIO
+Jeanne FOKO originally from Cameroon but live in Columbus OH
