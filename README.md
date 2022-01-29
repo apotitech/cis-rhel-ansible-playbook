@@ -65,5 +65,12 @@ It's licensed under the [Apache License 2.0](https://www.apache.org/licenses/LIC
 [Pull requests](https://github.com/major/cis-rhel-ansible/pulls) and [GitHub](https://github.com/major/cis-rhel-ansible/issues) issues are welcome!
 
 _-- Major_
+mireille
+ohio
 # cis-rhel-ansible-playbook
+<<<<<<< HEAD
 this is a new change
+=======
+christine petite njembe
+Jeanne FOKO originally from Cameroon but live in Columbus OH
+>>>>>>> main
